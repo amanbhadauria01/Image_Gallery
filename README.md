@@ -1,2 +1,2 @@
 # Image_Gallery
-Link - https://musing-shockley-8b4380.netlify.app/
+Link - https://thetiwarigallery.netlify.app/
